@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Lobster";
+    padding: 10px;
+}
+body{
+    background: url('augh.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% ;
+    background-position: center;
+    margin: 1.5rem;
+}
